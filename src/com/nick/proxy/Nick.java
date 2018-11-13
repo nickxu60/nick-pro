@@ -40,4 +40,5 @@ public class Nick implements Person{
 		System.out.println("D-cup");
 	}
 	//我是就1
+	//你就是2，真的有
 }
