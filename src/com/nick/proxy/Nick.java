@@ -39,5 +39,5 @@ public class Nick implements Person{
 		System.out.println("160cm");
 		System.out.println("D-cup");
 	}
-
+	//我是就1
 }
